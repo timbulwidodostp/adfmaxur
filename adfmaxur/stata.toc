@@ -2,4 +2,4 @@
 1
 2
 3
-p arhomme Arellano and Bonhomme (2017) quantile selection model (by Martin Biewen and Pascal Erhardt, 2020) Use arhomme With STATA 19
+p adfmaxur Calculate Leybourne (1995) ADFmax unit-root test statistic along with finite-sample critical values and associated p-values Use adfmaxur With STATA 19
