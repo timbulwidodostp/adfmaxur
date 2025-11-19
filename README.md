@@ -1,6 +1,8 @@
 # adfmaxur
 Calculate Leybourne (1995) ADFmax unit-root test statistic along with finite-sample critical values and associated p-values Use adfmaxur With STATA 19
 
+https://www.youtube.com/watch?v=-gw07SXIupA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
